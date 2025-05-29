@@ -138,21 +138,6 @@
             }
           },
           {
-            "id": "737bdb67900f90cc",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "태그"
-            }
-          },
-          {
             "id": "cabc4dbf5913fc67",
             "type": "leaf",
             "state": {
@@ -166,13 +151,44 @@
               "icon": "lucide-list",
               "title": "welcome 의 개요"
             }
+          },
+          {
+            "id": "737bdb67900f90cc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "c983509172fd1c51",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44c936126aab3070",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,7 +201,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "707a0a41abfebd8b",
+  "active": "44c936126aab3070",
   "lastOpenFiles": [
     "sync",
     "welcome.md"
