@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "welcome.md",
+                "file": "무제.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "welcome"
+              "title": "무제"
             }
           }
         ]
@@ -204,9 +204,11 @@
       "graph:그래프 뷰 열기": false
     }
   },
-  "active": "a60fddfb61d10dfa",
+  "active": "500fd883f2a7ccd7",
   "lastOpenFiles": [
+    "무제",
     "welcome.md",
+    "무제.md",
     "sync"
   ]
 }
