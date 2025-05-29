@@ -1,0 +1,21 @@
+{
+  "palette": {
+    "seed": 0,
+    "selected": "adaptive-soft",
+    "custom": "e12729-f37324-f8cc1b-72b043-007f4e"
+  },
+  "mixColors": true,
+  "transition": true,
+  "accessibility": {
+    "highTextContrast": false
+  },
+  "knownTags": {
+    "세무2급": 1,
+    "자격증": 2,
+    "학습계획": 3,
+    "소득세법": 4,
+    "과목별학습": 5,
+    "법인세법": 6
+  },
+  "_version": 3
+}
