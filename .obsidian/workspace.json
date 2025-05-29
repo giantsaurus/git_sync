@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "접대비 계산 연습문제.md",
+                "file": "세무2급/과목별/법인세법.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "접대비 계산 연습문제"
+              "title": "법인세법"
             }
           }
         ]
@@ -208,12 +208,12 @@
       "graph:그래프 뷰 열기": false
     }
   },
-  "active": "707a0a41abfebd8b",
+  "active": "500fd883f2a7ccd7",
   "lastOpenFiles": [
-    "세무2급/과목별/법인세법.md",
-    "접대비 계산 연습문제.md",
-    "세무2급 오답노트.md",
     "세무2급/과목별/부가가치세법.md",
+    "접대비 계산 연습문제.md",
+    "세무2급/과목별/법인세법.md",
+    "세무2급 오답노트.md",
     "세무2급/과목별/소득세법.md",
     "세무2급/세무2급 학습계획.md",
     "PROJECTS/세무 2급/실기/의제매입세액공제.md",
