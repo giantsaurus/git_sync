@@ -180,8 +180,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "플러그인이 더 이상 활성화돼있지 않음"
             }
           }
         ]
@@ -192,15 +192,11 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "omnisearch:Omnisearch": false,
-      "obsidian-importer:Open Importer": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:빠른 전환기 열기": false,
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 일일 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "obsidian-git:Open Git source control": false,
       "graph:그래프 뷰 열기": false
     }
   },
