@@ -180,8 +180,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "플러그인이 더 이상 활성화돼있지 않음"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ]
@@ -197,7 +197,8 @@
       "daily-notes:오늘의 일일 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "graph:그래프 뷰 열기": false
+      "graph:그래프 뷰 열기": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "707a0a41abfebd8b",
