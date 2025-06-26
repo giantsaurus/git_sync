@@ -204,8 +204,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "707a0a41abfebd8b",
+  "active": "500fd883f2a7ccd7",
   "lastOpenFiles": [
+    "PROJECTS/tesat/미시경제",
+    "PROJECTS/tesat",
     "PROJECTS/smat c 모듈.md",
     "package-lock.json",
     "obsidian-mcp-server/typedoc.json",
@@ -216,7 +218,6 @@
     "obsidian-mcp-server/src/mcp-server/transports/auth/strategies/jwt",
     "obsidian-mcp-server/src/mcp-server/transports/auth/core/authUtils.ts",
     "obsidian-mcp-server/src/mcp-server/transports/auth/core/authTypes.ts",
-    "obsidian-mcp-server/src/mcp-server/transports/auth/core/authContext.ts",
     "obsidian-mcp-server/docs/tree.md",
     "obsidian-mcp-server/docs/obsidian_mcp_tools_spec.md",
     "obsidian-mcp-server/README.md",
